@@ -10,6 +10,7 @@ import Sales from "./components/dashboard/sales";
 import TrafficByDevice from "./components/dashboard/traffic-by-device";
 import LatestProducts from "./components/dashboard/latest-product";
 import LatestOrders from "./components/dashboard/latest-orders";
+import DashboardNavbar from ".components/dashboard-navbar"
 import { ThemeProvider } from "@suid/material/styles";
 import { theme } from "./styles/theme";
 import styled from '@suid/material/styles';
